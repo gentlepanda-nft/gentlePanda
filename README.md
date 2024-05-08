@@ -1,5 +1,3 @@
-[![Custom badge](https://img.shields.io/badge/web-hashtiki-brightgreen)](https://www.hashtiki.com/)[![Twitter](https://img.shields.io/badge/Twitter-%40hashtiki-05b1ea)](https://twitter.com/hashtiki)[![License](https://img.shields.io/badge/License-MIT-critical)](LICENSE)
-
 # Meet GentlePanda 🐼🐼🐼
 
 ![awesome panda]()
