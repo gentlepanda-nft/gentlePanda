@@ -3,10 +3,9 @@
 
 ![awesome]()
 
-Metadata are stored on [IPFS](https://ipfs.io/ipfs/bafybeib27kvl2fmt6nn5gbg6mbh5qkdczavpbauajgvgabtvdn6vp2ca6a/)
-
 Meet **GentlePanda**, a distinguished member of an exclusive collection of pixel-style NFTs that harness the power of BTC L2 technology. Each GentlePanda is uniquely designed, showcasing a range of pixel art pandas with their own distinct personalities. Embrace the elegance and charisma of this crypto star, as each panda brings its own unique flair and story to our elite NFT collection.
 
+Metadata are stored on [IPFS](https://ipfs.io/ipfs/bafybeib27kvl2fmt6nn5gbg6mbh5qkdczavpbauajgvgabtvdn6vp2ca6a/)
 ## NFT Composition
 
 The GentlePanda collection consists of `8000` unique NFTs, constructed from `9` different layers with a total of `123` distinct components. These are combined using a random algorithm to generate each unique NFT.
