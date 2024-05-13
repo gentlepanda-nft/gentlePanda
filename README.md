@@ -80,6 +80,3 @@ check out `7999.json`
 ## Join Discord
 
 Join us to know more [DC](https://discord.gg/xmCvVMaS)
-
-
-# License
