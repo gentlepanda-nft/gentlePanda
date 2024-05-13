@@ -78,7 +78,7 @@ check out `7999.json`
 ```
 
 ## Join Discord
-
+Server [DC](https://discord.gg/xmCvVMaS)
 
 
 # License
